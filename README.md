@@ -1,3 +1,4 @@
+![MasterHead](https://media.licdn.com/dms/image/C4E16AQGCLLcexk7N8Q/profile-displaybackgroundimage-shrink_350_1400/0/1642023758493?e=1684368000&v=beta&t=Ql0BYHE3GG1K2bMEerrFY-4s7o1Q78OkBYcabiklsqQ)
 <h1 align="center">Hi 👋, I'm Fatma Cansu Kahraman</h1>
 
 
@@ -10,7 +11,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fatma-cansu-kahraman-6935491b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatma-cansu-kahraman-6935491b8" height="30" width="40" /></a>
-<a href="https://instagram.com/cansuukahramaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cansuukahramaan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
