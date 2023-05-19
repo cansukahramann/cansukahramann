@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C4E16AQGCLLcexk7N8Q/profile-displaybackgroundimage-shrink_350_1400/0/1642023758493?e=1684368000&v=beta&t=Ql0BYHE3GG1K2bMEerrFY-4s7o1Q78OkBYcabiklsqQ)
+
 <h1 align="center">Hi 👋, I'm Fatma Cansu</h1>
 
 
