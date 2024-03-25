@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋🏻, I'm Fatma Cansu</h1>🎀
+<h1 align="center">Hi 👋🏻, I'm Fatma Cansu 🎀</h1>
 
 
 - 👩🏼‍💻 I’m currently learning **UIkit and SwiftUI**
