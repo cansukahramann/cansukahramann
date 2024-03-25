@@ -1,12 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Fatma Cansu</h1>
+<h1 align="center">Hi 👋🏻, I'm Fatma Cansu</h1>🎀
 
 
-- 🌱 I’m currently learning **UIkit and SwiftUI**
+- 👩🏼‍💻 I’m currently learning **UIkit and SwiftUI**
 
-- 💬 Ask me about **Swift**
+- 💭 Ask me about **Swift**
 
-- 📫 How to reach me **fcansukahraman78@gmail.com**
+- 📲 How to reach me **fcansukahraman78@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
