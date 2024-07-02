@@ -6,7 +6,7 @@
 
 - 💭 Ask me about **Swift**
 
-- 📲 How to reach me **fcansukahraman78@gmail.com**
+- 📲 How to reach me **fatmacansukahraman@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
