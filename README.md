@@ -5,7 +5,7 @@
 </p>
 
 
-- 👩🏼‍💻 I’m currently learning **UIkit and SwiftUI**
+- 👩🏼‍💻 I’m currently learning **UIKit and SwiftUI**
 
 - 💭 Ask me about **Swift**
 
