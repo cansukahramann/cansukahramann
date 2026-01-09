@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Fatma Cansu</h1>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/60a6df13-292b-4432-99c1-fc8767c1bb1c" width="200">
-</p>
-
-
 - 👩🏼‍💻 I’m currently learning **UIKit and SwiftUI**
 
 - 💭 Ask me about **Swift**
